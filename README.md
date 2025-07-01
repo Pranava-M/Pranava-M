@@ -15,3 +15,14 @@
 📚 Mastering C, Java, HTML/CSS, JavaScript | 🧠 Leveling up Data Structures
 
 ✨ Hobbies: Coding marathons ☕ | Contributing to open-source 🌐 | Blogging tech tips ✍️
+
+
+
+- **Total Stars Earned:** 6  
+- **Total Commits (2025):** 210  
+- **Total Issues:** 24  
+- **Contributed to (last year):** 5  
+
+---
+
+### B
