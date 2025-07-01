@@ -18,11 +18,4 @@
 
 
 
-- **Total Stars Earned:** 6  
-- **Total Commits (2025):** 210  
-- **Total Issues:** 24  
-- **Contributed to (last year):** 5  
 
----
-
-### B
