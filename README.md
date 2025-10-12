@@ -6,7 +6,6 @@ I'm passionate about building scalable web applications and software solutions t
 
 📍 **Amrita Vishwa Vidyapeetham University**  
 📧 **machireddy12@gmail.com**  
-📱 **+91 9177740126**  
 💼 **[LinkedIn](https://www.linkedin.com/in/pranav-machireddy-554163311)**  
 🐙 **[GitHub](https://github.com/Pranava-M)**
 
