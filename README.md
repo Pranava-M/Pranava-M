@@ -1,4 +1,3 @@
-https://github.com/Pranava-M
 
 # Hi there, I'm Pranav Machireddy! 👋
 
