@@ -35,24 +35,6 @@ I'm passionate about building scalable web applications and software solutions t
 
 ---
 
-## 🎯 Featured Projects
-
-### 📚 Library Management System
-**Java | SQL | Swing GUI**  
-*Full-featured library system implementing DAO pattern for efficient database operations*
-- Designed relational database schema for book loans and user management
-- Implemented inventory tracking and user account systems
-- Built with Object-Oriented Programming principles
-
-### 🍽️ Restaurant Management System  
-**HTML5 | CSS3 | JavaScript | SQL**  
-*Full-stack web application for restaurant operations*
-- Developed table reservations and online ordering system
-- Created secure admin dashboard for order tracking and analytics
-- Implemented menu management and customer data processing
-
----
-
 ## 📊 GitHub Analytics
 
 ![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranava-M&show_icons=true&theme=radical&hide_title=true&count_private=true)
