@@ -65,7 +65,6 @@ I'm passionate about building scalable web applications and software solutions t
 
 - **Infotech Computers** - C Programming
 - **Unified Certification** - Data Analytics
-- **Amrita University** - Web Development Fundamentals
 
 ---
 
