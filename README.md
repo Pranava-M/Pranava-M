@@ -42,12 +42,6 @@ I'm passionate about building scalable web applications and software solutions t
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pranava-M&theme=radical&hide_border=true)
 
-### 📈 Contribution Metrics
-- **🏆 15+ Repositories** and growing
-- **📅 Started Coding Journey:** May 14, 2024
-- **🔥 Current Streak:** Building consistency
-- **💪 Longest Streak:** Improving every day
-- **🎯 2025 Goal:** 100+ contributions
 
 ---
 
@@ -58,23 +52,7 @@ I'm passionate about building scalable web applications and software solutions t
 - Cloud Computing Fundamentals
 - Mobile Development Concepts
 
----
 
-## 🏆 Certifications
-
-- **Infotech Computers** - C Programming
-- **Unified Certification** - Data Analytics
-
----
-
-## 📈 Current Focus
-
-- 🔭 **Working on:** Enhancing on Cyber security and data sturcture uses , & building 15+ projects
-- 🌱 **Learning:** Advanced JavaScript frameworks and backend development
-- 👯 **Looking to collaborate on:** Open source web projects and hackathons
-- 💬 **Ask me about:** Java, Python, Web Development, Database Management
-- 📫 **How to reach me:** machireddy12@gmail.com
-- ⚡ **Fun fact:** I can turn complex problems into elegant code solutions
 
 ---
 
