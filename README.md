@@ -7,7 +7,8 @@ I'm passionate about building scalable web applications and software solutions t
 📍 **Amrita Vishwa Vidyapeetham University**  
 📧 **machireddy12@gmail.com**  
 📱 **+91 9177740126**  
-💼 **[LinkedIn](https://www.linkedin.com/in/pranav-machireddy-554163311)**
+💼 **[LinkedIn](https://www.linkedin.com/in/pranav-machireddy-554163311)**  
+🐙 **[GitHub](https://github.com/Pranava-M)**
 
 ---
 
@@ -54,11 +55,18 @@ I'm passionate about building scalable web applications and software solutions t
 
 ## 📊 GitHub Analytics
 
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranava-M&show_icons=true&theme=radical&hide_title=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava-M&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pranava-M&theme=radical&hide_border=true)
+
+### 📈 Contribution Metrics
+- **🏆 15+ Repositories** and growing
+- **📅 Started Coding Journey:** May 14, 2024
+- **🔥 Current Streak:** Building consistency
+- **💪 Longest Streak:** Improving every day
+- **🎯 2024 Goal:** 100+ contributions
 
 ---
 
@@ -81,12 +89,12 @@ I'm passionate about building scalable web applications and software solutions t
 
 ## 📈 Current Focus
 
-- 🔭 **Working on:** Enhancing full-stack development skills
-- 🌱 **Learning:** Advanced JavaScript frameworks
-- 👯 **Looking to collaborate on:** Open source web projects
-- 💬 **Ask me about:** Java, Python, Web Development
+- 🔭 **Working on:** Enhancing full-stack development skills & building 15+ projects
+- 🌱 **Learning:** Advanced JavaScript frameworks and backend development
+- 👯 **Looking to collaborate on:** Open source web projects and hackathons
+- 💬 **Ask me about:** Java, Python, Web Development, Database Management
 - 📫 **How to reach me:** machireddy12@gmail.com
-- ⚡ **Fun fact:** I turn coffee into code ☕ → 💻
+- ⚡ **Fun fact:** I can turn complex problems into elegant code solutions
 
 ---
 
@@ -94,10 +102,11 @@ I'm passionate about building scalable web applications and software solutions t
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-machireddy-554163311)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:machireddy12@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranava-M)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 ---
 
-> *"Code is like humor. When you have to explain it, it's bad." - Cory House*
+> *"First, solve the problem. Then, write the code." - John Johnson*
 
-⭐ **From:** [Pranav Machireddy](https://github.com/yourusername)
+⭐ **From:** [Pranav Machireddy](https://github.com/Pranava-M)
