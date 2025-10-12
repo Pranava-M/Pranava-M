@@ -69,7 +69,7 @@ I'm passionate about building scalable web applications and software solutions t
 
 ## 📈 Current Focus
 
-- 🔭 **Working on:** Enhancing full-stack development skills & building 15+ projects
+- 🔭 **Working on:** Enhancing on Cyber security and data sturcture uses , & building 15+ projects
 - 🌱 **Learning:** Advanced JavaScript frameworks and backend development
 - 👯 **Looking to collaborate on:** Open source web projects and hackathons
 - 💬 **Ask me about:** Java, Python, Web Development, Database Management
