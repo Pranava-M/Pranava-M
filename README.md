@@ -47,7 +47,7 @@ I'm passionate about building scalable web applications and software solutions t
 - **📅 Started Coding Journey:** May 14, 2024
 - **🔥 Current Streak:** Building consistency
 - **💪 Longest Streak:** Improving every day
-- **🎯 2024 Goal:** 100+ contributions
+- **🎯 2025 Goal:** 100+ contributions
 
 ---
 
