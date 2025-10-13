@@ -42,7 +42,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava-M&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pranava-M&theme=radical)
+https://streak-stats.demolab.com/?user=Pranava-M&theme=radical&hide_border=true
 
 </div>
 
