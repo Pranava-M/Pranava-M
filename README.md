@@ -58,8 +58,6 @@
 
 <div align="center">
 
-### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
-
 ⭐ **Feel free to explore my repositories and contribute!**
 
 </div>
