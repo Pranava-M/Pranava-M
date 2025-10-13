@@ -65,4 +65,3 @@ I'm passionate about building scalable web applications and software solutions t
 ⭐ **From:** [Pranav Machireddy](https://github.com/Pranava-M)
 
 
-where that should be continously updating the about page so that it should be changing
