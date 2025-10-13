@@ -42,17 +42,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava-M&layout=compact&theme=radical)
 
-https://streak-stats.demolab.com/?user=Pranava-M&theme=radical&hide_border=true
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Pranava-M&theme=radical&hide_border=true&fire=DD2727&ring=DD2727&currStreakLabel=DD2727)](https://git.io/streak-stats)
 
 </div>
-
----
-
-## 🔄 Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- This section will auto-update with your recent GitHub activity -->
-<!--END_SECTION:activity-->
 
 ---
 
