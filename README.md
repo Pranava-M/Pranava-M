@@ -1,31 +1,36 @@
 Hi there, I'm Pranav Machireddy! 👋
-Computer Science Engineering Student | Full-Stack Developer
-
+Computer Science Engineering Student |
 I'm passionate about building scalable web applications and software solutions that solve real-world problems through clean code and innovative thinking.
+
+---
 
 📍 Amrita Vishwa Vidyapeetham University • 📧 machireddy12@gmail.com
 🔗 LinkedIn • 💻 GitHub • 📱 +91 9177740126
 
+---
+
 🚀 Technical Stack
-Programming Languages
+
+Programming Languages:-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 
-Web Technologies
+Web Technologies:-
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/Responsive-Design-4285F4?style=for-the-badge" alt="Responsive Design" />
 <img src="https://img.shields.io/badge/System-Design-FF6B6B?style=for-the-badge" alt="System Design" />
 
-Tools & Concepts
+Tools & Concepts:-
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/OOP-4A90E2?style=for-the-badge" alt="OOP" />
 <img src="https://img.shields.io/badge/Data_Structures-7ED321?style=for-the-badge" alt="Data Structures" />
 <img src="https://img.shields.io/badge/DBMS-FF6B6B?style=for-the-badge" alt="DBMS" />
 
+---
 📊 GitHub Analytics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pranava-M&show_icons=true&theme=radical&hide_title=true&count_private=true&cache_seconds=1800" alt="Pranav's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava-M&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranava-M&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Streak" /> </p>
 💼 Featured Projects
