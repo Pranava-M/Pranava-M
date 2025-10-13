@@ -44,8 +44,6 @@
 ### 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava-M&layout=compact&theme=radical&hide_border=true)
 
-### 🔥 Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Pranava-M&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
