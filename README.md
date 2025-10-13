@@ -46,9 +46,6 @@ I'm passionate about building scalable web applications and software solutions t
 - System Design Principles
 - Cloud Computing Fundamentals
 - Mobile Development Concepts
-
-
-
 ---
 
 ## 🤝 Let's Connect!
@@ -59,9 +56,5 @@ I'm passionate about building scalable web applications and software solutions t
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 ---
-
-> *"First, solve the problem. Then, write the code." - John Johnson*
-
-⭐ **From:** [Pranav Machireddy](https://github.com/Pranava-M)
 
 
