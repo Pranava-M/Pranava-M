@@ -61,3 +61,12 @@
 ⭐ **Feel free to explore my repositories and contribute!**
 
 </div>
+
+---
+
+Let's Connect! 🤝
+https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin
+https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail
+https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github
+
+Thanks for visiting my profile! Have a great day! ✨
