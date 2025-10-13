@@ -39,10 +39,8 @@
 <div align="center">
 
 ![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranava-M&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava-M&layout=compact&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Pranava-M&theme=radical&hide_border=true&fire=DD2727&ring=DD2727&currStreakLabel=DD2727)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolapp.com/?user=Pranava-M&theme=radical&hide_border=true)
 
 </div>
 
