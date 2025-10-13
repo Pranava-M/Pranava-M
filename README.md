@@ -1,4 +1,4 @@
-# Pranav Machireddy 🚀
+## Pranav Machireddy 🚀
 
 <div align="center">
 
