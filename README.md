@@ -59,9 +59,6 @@
 
 <div align="center">
 
-### 📊 Contribution Stats
-![GitHub Commit Activity](https://github-readme-stats.vercel.app/api/pin/?username=Pranava-M&repo=Pranava-M&theme=radical)
-
 ⭐ **Feel free to explore my repositories and contribute!**
 
 </div>
