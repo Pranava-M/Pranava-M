@@ -49,9 +49,6 @@
 ### 🏆 GitHub Profile Trophy
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Pranava-M&theme=radical&no-frame=true&row=2&column=4)
 
-### 📊 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranava-M&theme=radical&hide_border=true&area=true)
-
 </div>
 
 ---
