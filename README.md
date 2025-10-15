@@ -30,29 +30,45 @@
 ![System Design](https://img.shields.io/badge/System-Design-blue?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOP-Object_Oriented-orange?style=for-the-badge)
 
-
 ---
-
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-### 📈 Profile Stats
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranava-M&show_icons=true&theme=radical&hide_border=true)
+### 📈 Profile Overview
+![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranava-M&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true)
+
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pranava-M&theme=radical&hide_border=true)
 
 ### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava-M&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava-M&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
+### 🏆 GitHub Profile Trophy
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Pranava-M&theme=radical&no-frame=true&row=2&column=4)
+
+### 📊 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranava-M&theme=radical&hide_border=true&area=true)
 
 </div>
 
 ---
 
 <div align="center">
+
+### 🌟 **GitHub Metrics**
+![Metrics](https://github-readme-stats.vercel.app/api/wakatime?username=Pranava-M&theme=radical&hide_border=true)
 
 ⭐ **Feel free to explore my repositories and contribute!**
 
 </div>
 
 ---
+
+<div align="center">
+
+### 📈 **Weekly Development Breakdown**
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pranava-M&layout=compact&theme=radical&hide_border=true)
+
+</div>
