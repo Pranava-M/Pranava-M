@@ -44,9 +44,6 @@
 ### 📈 Profile Overview
 ![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranava-M&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-### 🔥 Streak Stats  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Pranava-M&theme=radical&hide_border=true)
-
 ### 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava-M&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
