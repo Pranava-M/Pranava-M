@@ -48,27 +48,15 @@
 ### 🏆 GitHub Profile Trophy
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Pranava-M&theme=radical&no-frame=true&row=2&column=4)
 
-### 📊 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranava-M&theme=radical&hide_border=true&area=true)
-
 </div>
 
 ---
 
 <div align="center">
 
-### 🌟 **GitHub Metrics**
-![Metrics](https://github-readme-stats.vercel.app/api/wakatime?username=Pranava-M&theme=radical&hide_border=true)
+### 📊 Contribution Stats
+![GitHub Commit Activity](https://github-readme-stats.vercel.app/api/pin/?username=Pranava-M&repo=Pranava-M&theme=radical)
 
 ⭐ **Feel free to explore my repositories and contribute!**
-
-</div>
-
----
-
-<div align="center">
-
-### 📈 **Weekly Development Breakdown**
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pranava-M&layout=compact&theme=radical&hide_border=true)
 
 </div>
