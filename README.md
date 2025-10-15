@@ -57,5 +57,14 @@
 <div align="center">
 
 ⭐ **Feel free to explore my repositories and contribute!**
+<div align="center">
 
+### 📫 **Let's Connect**
+<p align="center">
+  <a href="mailto:machireddy12@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40"/></a>
+  <a href="https://www.linkedin.com/in/pranav-machireddy-554163311"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/></a>
+  <a href="https://github.com/Pranava-M"><img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="40"/></a>
+</p>
+
+</div>
 </div>
