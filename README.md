@@ -1,6 +1,7 @@
 ## Pranav Machireddy 🚀
 
 <div align="center">
+  
 **Computer Science Engineering Student** | **Full-Stack Developer | Back-End Engineer | Security Specialist | Data Analyst**
   
 [![Email](https://img.shields.io/badge/Email-machireddy12@gmail.com-red?style=flat-square&logo=gmail)](mailto:machireddy12@gmail.com)
