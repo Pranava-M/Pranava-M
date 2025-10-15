@@ -1,14 +1,11 @@
 ## Pranav Machireddy 🚀
 
 <div align="center">
-
 **Computer Science Engineering Student** | **Full-Stack Developer | Back-End Engineer | Security Specialist | Data Analyst**
-
+  
 [![Email](https://img.shields.io/badge/Email-machireddy12@gmail.com-red?style=flat-square&logo=gmail)](mailto:machireddy12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav_Machireddy-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pranav-machireddy-554163311)
-
 </div>
-
 ---
 
 ## 🛠️ Technical Skills
@@ -34,13 +31,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![System Design](https://img.shields.io/badge/System_Design-blue?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOP-Object_Oriented-orange?style=for-the-badge)
-
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-
 ### 📈 Profile Overview
 ![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranava-M&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
@@ -49,13 +43,9 @@
 
 ### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pranava-M&theme=radical&no-frame=true&row=2&column=4)
-
 </div>
-
 ---
-
 <div align="center">
-
 ⭐ **Feel free to explore my repositories and contribute!**
 
 </div>
