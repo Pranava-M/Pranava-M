@@ -41,15 +41,33 @@
 
 <div align="center">
 
-### 📈 Profile Stats
+### 📈 Profile Overview
 ![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranava-M&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-### 🔥 Streak Stats  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Pranava-M&theme=radical&hide_border=true)
+### 🔥 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=Pranava-M&theme=radical&hide_border=true&type=svg)
 
+### 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava-M&layout=compact&theme=radical&hide_border=true&langs_count=6)
 
 ### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pranava-M&theme=radical&no-frame=true&row=2&column=4)
+
+</div>
+
+---
+
+## 📈 Detailed Stats
+
+<div align="center">
+
+| Metric | Value |
+|--------|-------|
+| **Total Stars Earned** | 12 |
+| **Total Commits** | 122 |
+| **Total PRs** | 0 |
+| **Total Issues** | 0 |
+| **Contributed to (last year)** | 0 |
 
 </div>
 
