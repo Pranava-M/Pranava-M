@@ -1,4 +1,4 @@
-## Pranav Machireddy 🚀
+## Pranav Machireddy 
 <div align="center">
   
 **Computer Science Engineering Student** | **Full-Stack Developer | Back-End Engineer | Security Specialist | Data Analyst**
