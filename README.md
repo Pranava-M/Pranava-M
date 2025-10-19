@@ -1,13 +1,11 @@
-# Pranav Machireddy 
+## Pranav Machireddy 
 <div align="center">
   
 **Computer Science Engineering Student** | **Full-Stack Developer | Back-End Engineer | Security Specialist | Data Analyst**
   
 [![Email](https://img.shields.io/badge/Email-machireddy12@gmail.com-red?style=flat-square&logo=gmail)](mailto:machireddy12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav_Machireddy-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pranav-machireddy-554163311)
-[![Auto Updated](https://img.shields.io/badge/Auto_Updated-24_hours-green?style=flat-square&logo=github)](https://github.com/Pranava-M)
 </div>
-
 ---
 
 ## 🛠️ Technical Skills
@@ -56,18 +54,8 @@
 
 ---
 
-## 📈 Activity Graph
-![Pranav's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranava-M&theme=radical&hide_border=true&area=true)
-
----
-
 <div align="center">
 
-### 🚀 **Latest Updates**
-*Last automated update: {{date}}*
-
 ⭐ **Feel free to explore my repositories and contribute!**
-
-[![Visitors](https://komarev.com/ghpvc/?username=Pranava-M&color=blue&style=flat-square)](https://github.com/Pranava-M)
 
 </div>
