@@ -79,9 +79,6 @@
 
 ⭐ **Explore my repositories and let's build something amazing together!** ⭐
 
----
 
-![Profile Views](https://komarev.com/ghpvc/?username=Pranava-M&color=blueviolet&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/Pranava-M?style=social)](https://github.com/Pranava-M)
 
 </div>
