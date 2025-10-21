@@ -12,13 +12,6 @@
 
 ---
 
-<div align="center">
-
-### 💫 *"Crafting innovative solutions through code, one commit at a time"* 💫
-
-</div>
-
----
 
 ## 🛠️ Technical Arsenal
 
