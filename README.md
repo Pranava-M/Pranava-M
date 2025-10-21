@@ -103,12 +103,7 @@
 ✨ **Internship & career opportunities**  
 ✨ **Open source contributions**
 
----
-
 ⭐ **Explore my repositories and let's build something amazing together!** ⭐
-
-*"Code is poetry written in logic, and every bug is just an undiscovered feature waiting to be refined."*
-
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Pranava-M&color=blueviolet&style=flat-square&label=Profile+Views)
