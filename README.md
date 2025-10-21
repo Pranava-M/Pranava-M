@@ -63,24 +63,6 @@
 
 ---
 
-## 🚀 What Sets Me Apart
-
-<div align="center">
-
-| **💡 Innovation** | **🔧 Implementation** | **📈 Impact** |
-|-------------------|----------------------|---------------|
-| Creative Problem Solving | Full-Stack Development | Scalable Solutions |
-| Security-First Mindset | Data-Driven Analysis | Performance Optimization |
-| System Architecture | Clean Code Practices | User-Centric Design |
-
-</div>
-
----
-
-</div>
-
----
-
 ## 📫 Let's Connect & Collaborate!
 
 <div align="center">
