@@ -6,8 +6,8 @@
 [![Email](https://img.shields.io/badge/Email-machireddy12@gmail.com-red?style=flat-square&logo=gmail)](mailto:machireddy12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav_Machireddy-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pranav-machireddy-554163311)
 </div>
----
 
+---
 ## 📊 GitHub Stats
 
 <div align="center">
