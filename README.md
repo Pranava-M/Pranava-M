@@ -2,12 +2,9 @@
 
 **Computer Science Engineering Student** | **Full-Stack Developer** | **Back-End Engineer** | **Security Specialist** | **Data Analyst**
 
-
-
 [![Email](https://img.shields.io/badge/Email-machireddy12@gmail.com-red?style=flat-square&logo=gmail)](mailto:machireddy12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav_Machireddy-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pranav-machireddy-554163311)
 [![GitHub](https://img.shields.io/badge/GitHub-Pranava--M-black?style=flat-square&logo=github)](https://github.com/Pranava-M)
-</div>
 
 ---
 
@@ -59,17 +56,13 @@
 <div align="center">
 
 ### 📈 Performance Overview
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranava-M&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)
+![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranava-M&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
 ### 💻 Language Mastery
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava-M&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800)
-
-### 🏆 Achievement Gallery
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pranava-M&theme=radical&no-frame=true&row=2&column=4&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava-M&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ### 🔥 Contribution Streak  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Pranava-M&theme=radical&hide_border=true&cache_seconds=1800)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Pranava-M&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -77,8 +70,7 @@
 
 ## 📈 GitHub Activity
 
-<!-- GitHub Activity Graph -->
-![Pranav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranava-M&theme=radical&hide_border=true&area=true&custom_title=Pranav's%20GitHub%20Activity&cache_seconds=1800)
+![Pranav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranava-M&theme=radical&hide_border=true&area=true&custom_title=Pranav%27s%20GitHub%20Activity)
 
 ---
 
@@ -107,6 +99,4 @@
 
 ⭐ **Explore my repositories and let's build something amazing together!** ⭐
 
----
-
-
+</div>
