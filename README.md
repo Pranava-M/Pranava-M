@@ -56,16 +56,16 @@
 <div align="center">
 
 ### 📈 Performance Overview
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranava-M&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Pranava-M&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" width="500" />
 
 ### 💻 Language Mastery
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava-M&layout=compact&theme=radical&hide_border=true&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava-M&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" width="500" />
 
-### 🔥 Contribution Streak  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Pranava-M&theme=radical&hide_border=true)](https://git.io/streak-stats)
+### 🔥 Contribution Streak
+<img src="https://streak-stats.demolab.com/?user=Pranava-M&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="500" />
 
 ### 🏆 Achievement Gallery
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pranava-M&theme=radical&no-bg=true&no-frame=true&margin-w=15&margin-h=15)
+<img src="https://github-profile-trophy.vercel.app/?username=Pranava-M&theme=radical&no-bg=true&no-frame=true&margin-w=15&margin-h=15&cache_seconds=86400" alt="GitHub Trophies" width="500" />
 
 </div>
 
@@ -73,7 +73,7 @@
 
 ## 📈 GitHub Activity
 
-![Pranav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranava-M&theme=radical&hide_border=true&area=true&custom_title=Pranav's%20GitHub%20Activity)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranava-M&theme=radical&hide_border=true&area=true&custom_title=Pranav's%20GitHub%20Activity&cache_seconds=86400" alt="GitHub Activity Graph" width="100%" />
 
 ---
 
