@@ -65,7 +65,7 @@
 <img src="https://streak-stats.demolab.com/?user=Pranava-M&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="500" />
 
 ### 🏆 Achievement Gallery
-<img src="https://github-profile-trophy.vercel.app/?username=Pranava-M&theme=radical&no-bg=true&no-frame=true&margin-w=15&margin-h=15&cache_seconds=86400" alt="GitHub Trophies" width="500" />
+<img src="https://github-profile-trophy.vercel.app/?username=Pranava-M&theme=radical&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" width="500" />
 
 </div>
 
