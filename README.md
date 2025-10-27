@@ -56,16 +56,16 @@
 <div align="center">
 
 ### 📈 Performance Overview
-<img src="https://github-readme-stats.vercel.app/api?username=Pranava-M&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" width="500" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranava-M&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
 ### 💻 Language Mastery
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava-M&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" width="500" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava-M&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ### 🔥 Contribution Streak
-<img src="https://streak-stats.demolab.com/?user=Pranava-M&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="500" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=Pranava-M&theme=radical&hide_border=true)
 
 ### 🏆 Achievement Gallery
-<img src="https://github-profile-trophy.vercel.app/?username=Pranava-M&theme=radical&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" width="500" />
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pranava-M&theme=radical&no-bg=true&no-frame=true&margin-w=15&margin-h=15)
 
 </div>
 
@@ -73,7 +73,7 @@
 
 ## 📈 GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranava-M&theme=radical&hide_border=true&area=true&custom_title=Pranav's%20GitHub%20Activity&cache_seconds=86400" alt="GitHub Activity Graph" width="100%" />
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranava-M&theme=radical&hide_border=true&area=true&custom_title=Pranav%27s%20GitHub%20Activity)
 
 ---
 
@@ -103,3 +103,11 @@
 ⭐ **Explore my repositories and let's build something amazing together!** ⭐
 
 </div>
+
+---
+
+## 🔄 Auto-Update Status
+<!-- This section will be updated automatically every 24 hours -->
+**Last auto-updated:** Loading...
+
+*Note: GitHub stats update automatically daily via GitHub Actions*
