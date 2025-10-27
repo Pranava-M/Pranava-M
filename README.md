@@ -51,7 +51,7 @@
 
 ---
 
-## 📊 GitHub Analytics & Achievements
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -65,26 +65,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Pranava-M&theme=radical&hide_border=true)
 
 </div>
-
----
-
-## 📅 Contribution Calendar
-
-![GitHub Contribution Calendar](https://ghchart.rshah.org/Pranava-M)
-
----
-
-## ⭐ Repository Highlights
-
-### 🔥 Popular Repositories
-[![ReadMe Generator](https://github-readme-stats.vercel.app/api/pin/?username=Pranava-M&repo=ReadMe-Generator&theme=radical)](https://github.com/Pranava-M/ReadMe-Generator)
-[![Student Grade Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Pranava-M&repo=Student-Grade-Calculator&theme=radical)](https://github.com/Pranava-M/Student-Grade-Calculator)
-
-### 💫 Recent Activity
-<!--START_SECTION:activity-->
-<!-- This section will be auto-updated by the workflow -->
-- **Recent contributions loading...**
-<!--END_SECTION:activity-->
 
 ---
 
