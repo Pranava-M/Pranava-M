@@ -65,7 +65,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Pranava-M&theme=radical&hide_border=true)
 
 ### 🏆 Achievement Gallery
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pranava-M&theme=radical&no-bg=true&no-frame=true&margin-w=15&margin-h=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pranava-M&theme=radical&row=2&column=4&no-bg=true&no-frame=true&margin-w=15&margin-h=15)
 
 </div>
 
@@ -73,7 +73,7 @@
 
 ## 📈 GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranava-M&theme=radical&hide_border=true&area=true&custom_title=Pranav%27s%20GitHub%20Activity)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranava-M&theme=radical&hide_border=true&area=true&custom_title=Pranav%27s%20GitHub%20Activity&height=300)
 
 ---
 
@@ -107,8 +107,6 @@
 ---
 
 ## 🔄 Auto-Update Status
-<!-- This section will be updated automatically every 24 hours -->
-**Last auto-updated:** Loading...
+**Last auto-updated:** 2024-01-15 06:30:00 IST
 
-*Note: GitHub stats update automatically daily via GitHub Actions*
-Last auto-updated: Mon Oct 27 10:11:38 UTC 2025
+*Stats update automatically every 24 hours*
