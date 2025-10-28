@@ -27,10 +27,6 @@
   <img src="https://streak-stats.demolab.com/?user=Pranava-M&theme=radical&hide_border=true" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranava-M&theme=radical&hide_border=true&area=true&custom_title=🚀%20GitHub%20Activity%20Graph&height=300"/>
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
