@@ -1,8 +1,10 @@
-<!-- 💼 Pranav Machireddy - Dynamic GitHub Profile README -->
+<!-- 💼 Pranav Machireddy - Professional GitHub Profile README -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF3CAC&center=true&vCenter=true&width=900&lines=Pranav+Machireddy;Computer+Science+Student;Full-Stack+Developer;Backend+Engineer;Security+Enthusiast;Data+Analyst" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF3CAC&center=true&vCenter=true&width=900&lines=Pranav+Machireddy;Computer+Science+Student;Full-Stack+Developer;Backend+Engineer;Security+Enthusiast;Data+Analyst" alt="Typing SVG" />
+</p>
 
----
+<hr style="border: 0; height: 3px; background: linear-gradient(90deg,#FF3CAC,#784BA0,#2B86C5);" />
 
 ## 🔥 Profile Overview
 
@@ -11,8 +13,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranava-M&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava-M&layout=compact&theme=radical&hide_border=true&langs_count=8" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranava-M&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava-M&layout=compact&theme=radical&hide_border=true&langs_count=8" height="160" alt="Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pranava-M&style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/github/followers/Pranava-M?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/Pranava-M?style=for-the-badge&logo=github" />
 </p>
 
 ---
@@ -24,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Pranava-M&theme=radical&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=Pranava-M&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -32,11 +40,11 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  
-### Languages
+
+### Languages  
 <img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,html,css,sqlite,mysql&theme=dark" />
 
-### Frameworks & Tools
+### Frameworks & Tools  
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,linux,git,redis,aws&theme=dark" />
 
 </p>
@@ -53,5 +61,34 @@
 
 ---
 
+<p align="center">
+  <span style="animation: waveText 2s infinite;">⭐ Explore my work and let's build something great together! ⭐</span>
+</p>
 
-⭐ Feel free to explore my repositories and let’s build greatness together!
+<!-- Animations & Pro Styling -->
+<style>
+
+img[src*="skillicons"] {
+  filter: drop-shadow(0 0 0px transparent);
+  transition: all .25s ease-in-out;
+}
+img[src*="skillicons"]:hover {
+  filter: drop-shadow(0 0 10px #FF3CAC);
+  transform: scale(1.1);
+}
+
+h2, h3 {
+  text-shadow: 0 0 8px #FF3CAC, 0 0 14px #784BA0;
+}
+
+img:hover {
+  transition: 0.3s ease-in-out;
+  transform: scale(1.04);
+}
+
+@keyframes waveText {
+  0%,100% { letter-spacing:1px; }
+  50% { letter-spacing:3px; }
+}
+
+</style>
