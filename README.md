@@ -57,11 +57,4 @@
 
 ---
 
-### ✨ Auto-Update Status
-
-💡 This README auto-refreshes dynamic sections daily  
-⏳ Last Updated: <!--TIMESTAMP--> 
-
----
-
 ⭐ Feel free to explore my repositories and let’s build greatness together!
