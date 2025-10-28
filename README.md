@@ -1,109 +1,67 @@
-# Pranav Machireddy
+<!-- 💼 Pranav Machireddy - Dynamic GitHub Profile README -->
 
-**Computer Science Engineering Student** | **Full-Stack Developer** | **Back-End Engineer** | **Security Specialist** | **Data Analyst**
-
-[![Email](https://img.shields.io/badge/Email-machireddy12@gmail.com-red?style=flat-square&logo=gmail)](mailto:machireddy12@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav_Machireddy-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pranav-machireddy-554163311)
-[![GitHub](https://img.shields.io/badge/GitHub-Pranava--M-black?style=flat-square&logo=github)](https://github.com/Pranava-M)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF3CAC&center=true&vCenter=true&width=900&lines=Pranav+Machireddy;Computer+Science+Student;Full-Stack+Developer;Backend+Engineer;Security+Enthusiast;Data+Analyst" alt="Typing SVG" />
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🔥 Profile Overview
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pranava-M&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🧠 Data Structures & Algorithms
-![Data Structures](https://img.shields.io/badge/Data_Structures-FF6B6B?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-4ECDC4?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-9B59B6?style=for-the-badge)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-00D2FF?style=for-the-badge)
-
-### ⚙️ Tools & Concepts
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-FF9500?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-Object_Oriented-FF6B9D?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranava-M&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava-M&layout=compact&theme=radical&hide_border=true&langs_count=8" height="150"/>
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+## 🏆 Achievements
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranava-M&theme=radical" width="90%"/>
+</p>
 
-### 📈 Performance Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranava-M&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Pranava-M&theme=radical&hide_border=true" height="180"/>
+</p>
 
-### 💻 Language Mastery
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava-M&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-### 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=Pranava-M&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 📈 GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranava-M&theme=radical&hide_border=true&area=true&custom_title=Pranav%27s%20GitHub%20Activity&height=300)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranava-M&theme=radical&hide_border=true&area=true&custom_title=🚀%20GitHub%20Activity%20Graph&height=300"/>
+</p>
 
 ---
 
-## 📫 Let's Connect & Collaborate!
+## 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
+  
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,html,css,sqlite,mysql&theme=dark" />
 
-### 🤝 Open to exciting opportunities in:
-**Software Development** • **Data Engineering** • **Cybersecurity** • **Full-Stack Projects** • **Open Source Contributions**
+### Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,linux,git,redis,aws&theme=dark" />
 
----
-
-### 💌 Reach out for:
-✨ Collaboration on innovative projects  
-✨ Technical discussions & knowledge sharing  
-✨ Internship & career opportunities  
-✨ Open source contributions  
-✨ Mentorship and guidance
+</p>
 
 ---
 
-### 📞 Contact Information
-- **Email:** [machireddy12@gmail.com](mailto:machireddy12@gmail.com)
-- **LinkedIn:** [Pranav Machireddy](https://www.linkedin.com/in/pranav-machireddy-554163311)
-- **GitHub:** [Pranava-M](https://github.com/Pranava-M)
+## 🤝 Let's Connect
 
-⭐ **Explore my repositories and let's build something amazing together!** ⭐
-
-</div>
+<p align="center">
+<a href="mailto:machireddy12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/pranav-machireddy-554163311"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/Pranava-M"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
-## 🔄 Auto-Update Status
-**Last auto-updated:** 2024-01-15 06:30:00 IST
+### ✨ Auto-Update Status
 
-*Stats update automatically every 24 hours*
+💡 This README auto-refreshes dynamic sections daily  
+⏳ Last Updated: <!--TIMESTAMP--> 
+
+---
+
+⭐ Feel free to explore my repositories and let’s build greatness together!
