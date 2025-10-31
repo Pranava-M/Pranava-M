@@ -1,8 +1,6 @@
 <!-- 💼 Pranav Machireddy - Dynamic GitHub Profile README -->
 
-<p align="center">
-  <img src="https://i.imgur.com/GH83zq3.gif" alt="Rising Sun Cover" width="100%" />
-</p>
+
 
 <h2 align="center">🌅 Hi, I'm Pranav Machireddy — A Passionate Web Developer ☀️</h2>
 
