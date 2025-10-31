@@ -32,10 +32,7 @@
 
 ## 🌟 Dynamic GitHub Metrics (New Feature!)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranava-M&show_icons=true&theme=radical&hide_border=true" width="45%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=Pranava-M&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" width="45%" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranava-M&theme=radical&hide_border=true&bg_color=0D1117&color=FF3CAC&line=FF3CAC&point=FFFFFF" width="95%" />
