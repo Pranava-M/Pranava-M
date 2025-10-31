@@ -1,8 +1,6 @@
 <!-- 💼 Pranav Machireddy - Dynamic GitHub Profile README -->
 
-
-
-<h2 align="center">🌅 Hi, I'm Pranav Machireddy — A Passionate Web Developer ☀️</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF3CAC&center=true&vCenter=true&width=900&lines=Pranav+Machireddy;Computer+Science+Student;Full-Stack+Developer;Backend+Engineer;Security+Enthusiast;Data+Analyst" alt="Typing SVG" />
 
 ---
 
@@ -26,12 +24,13 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pranava-M&theme=radical&hide_border=true" height="180"/>
+  <!-- ✅ Fixed streak record -->
+  <img src="https://streak-stats.vercel.app?user=Pranava-M&theme=radical&hide_border=true" height="180"/>
 </p>
 
 ---
 
-## 🌟 Dynamic GitHub Metrics (Auto Updating)
+## 🌟 Dynamic GitHub Metrics (New Feature!)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranava-M&theme=radical&hide_border=true&bg_color=0D1117&color=FF3CAC&line=FF3CAC&point=FFFFFF" width="95%" />
@@ -42,25 +41,13 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-
+  
 ### Languages
 <img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,html,css,sqlite,mysql&theme=dark" />
 
 ### Frameworks & Tools
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,linux,git,redis,aws&theme=dark" />
 
-</p>
-
----
-
-## ✨ Interactive Section
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranava-M&label=Profile%20Visitors&color=FF3CAC&style=flat-square" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
 ---
@@ -75,8 +62,4 @@
 
 ---
 
-⭐ **Feel free to explore my repositories and let’s build greatness together!**
-
----
-
-> ⚡ _This profile dynamically updates every 24 hours — trophies, streaks, quotes, and stats auto-refresh via GitHub’s live APIs._
+⭐ Feel free to explore my repositories and let’s build greatness together!
