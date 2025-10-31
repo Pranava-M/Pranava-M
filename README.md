@@ -24,7 +24,16 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Pranava-M&theme=radical&hide_border=true" height="180"/>
+  <!-- ✅ Fixed streak record -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranava-M&theme=radical&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 📈 Activity Graph (New Feature!)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranava-M&theme=radical&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---
@@ -52,6 +61,5 @@
 </p>
 
 ---
-
 
 ⭐ Feel free to explore my repositories and let’s build greatness together!
