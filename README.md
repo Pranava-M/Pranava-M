@@ -33,7 +33,7 @@
 ## 🌟 Dynamic GitHub Metrics (New Feature!)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranava-M&theme=radical&hide_border=true&bg_color=0D1117&color=FF3CAC&line=FF3CAC&point=FFFFFF" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranava-M&theme=radical&hide_border=true&bg_color=0D1117&color=FF6EC7&line=FF3CAC&point=FFB3F5" width="95%" />
 </p>
 
 ---
