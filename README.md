@@ -24,13 +24,12 @@
 </p>
 
 <p align="center">
-  <!-- ✅ Fixed streak record -->
-  <img src="https://streak-stats.vercel.app?user=Pranava-M&theme=radical&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Pranava-M&theme=radical&hide_border=true" height="180"/>
 </p>
 
 ---
 
-## 🌟 Dynamic GitHub Metrics (New Feature!)
+## 🌟 Dynamic GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranava-M&theme=radical&hide_border=true&bg_color=0D1117&color=FF6EC7&line=FF3CAC&point=FFB3F5" width="95%" />
@@ -41,7 +40,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  
+
 ### Languages
 <img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,html,css,sqlite,mysql&theme=dark" />
 
@@ -62,4 +61,4 @@
 
 ---
 
-⭐ Feel free to explore my repositories and let’s build greatness together!
+⭐ **Feel free to explore my repositories and let’s build greatness together!**
