@@ -25,20 +25,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranava-M&theme=radical" width="90%" alt="Profile Summary"/>
 </p>
 
-<p align="center" style="margin-top: 20px;">
-  <img
-    src="https://streak-stats.demolab.com?user=Pranava-M&theme=radical&hide_border=true"
-    height="200"
-    alt="GitHub Streak"
-    style="
-      border-radius: 12px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.4);
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-    "
-    onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.5)';"
-    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.4)';"
-  />
-</p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=Pranava-M&theme=tokyonight&hide_border=false" height="180" alt="GitHub Streak" style="border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,0.45);"/></p>
+
 
 
 ---
