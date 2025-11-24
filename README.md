@@ -28,7 +28,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranava-M&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Pranava-M&theme=radical&hide_border=true&background=000000" height="180" alt="GitHub Streak"/>
 </p>
 
 
