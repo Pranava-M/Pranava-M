@@ -25,9 +25,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranava-M&theme=radical" width="90%" alt="Profile Summary"/>
 </p>
 
----
 
-## 🔥 GitHub Streak (100% Visible Fix)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Pranava-M&theme=radical&hide_border=true&background=000000" height="180" alt="GitHub Streak"/>
