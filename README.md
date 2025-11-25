@@ -9,11 +9,15 @@
 ## 🔥 Profile Overview
 
 <p align="center">
+  <!-- FIXED TROPHY -->
   <img src="https://github-profile-trophy.vercel.app/?username=Pranava-M&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Pranava-M&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats"/>
+
+  <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava-M&layout=compact&theme=radical&hide_border=true&langs_count=8" height="150" alt="Top Languages"/>
 </p>
 
@@ -22,13 +26,13 @@
 ## 🏆 Achievements
 
 <p align="center">
+  <!-- Profile Summary Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranava-M&theme=radical" width="90%" alt="Profile Summary"/>
 </p>
 
-
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Pranava-M&theme=radical&hide_border=true&background=000000" height="180" alt="GitHub Streak"/>
+  <!-- FIXED STREAK -->
+  <img src="https://streak-stats.demolab.com?user=Pranava-M&theme=radical&hide_border=true&background=000000" height="180" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -36,6 +40,7 @@
 ## 🌟 Dynamic GitHub Metrics
 
 <p align="center">
+  <!-- Activity Graph (Stable URL) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranava-M&theme=radical&hide_border=true&bg_color=0D1117&color=FF6EC7&line=FF3CAC&point=FFB3F5" width="95%" alt="GitHub Activity Graph"/>
 </p>
 
@@ -65,4 +70,4 @@
 
 ---
 
-⭐ **Feel free to explore my repositories and let’s build greatness together!**
+⭐ **Feel free to explore my repositories — let’s build greatness together!**
