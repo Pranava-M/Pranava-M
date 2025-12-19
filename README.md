@@ -1,7 +1,7 @@
-<!-- 💼 Pranav Machireddy - Dynamic GitHub Profile README -->
+<!-- 💼 Pranav Machireddy - GitHub Profile -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF3CAC&center=true&vCenter=true&width=900&lines=Pranav+Machireddy;Computer+Science+Student;Full-Stack+Developer;Backend+Engineer;Security+Enthusiast;Data+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF3CAC&center=true&vCenter=true&width=900&lines=Pranav+Machireddy;Computer+Science+Student;Full-Stack+Developer;Backend+Engineer;Security+Enthusiast;Data+Analyst" />
 </p>
 
 ---
@@ -10,15 +10,15 @@
 
 <p align="center">
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Pranava-M&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Pranava-M&theme=radical&no-frame=true&no-bg=true" />
 </p>
 
 <p align="center">
-  <!-- GitHub Stats (Stable Mirror to avoid error) -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pranava-M&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats"/>
+  <!-- GitHub Stats — OFFICIAL WORKING -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranava-M&show_icons=true&theme=radical&hide_border=true" height="150"/>
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pranava-M&layout=compact&theme=radical&hide_border=true&langs_count=8" height="150" alt="Top Languages"/>
+  <!-- Top Languages — OFFICIAL WORKING -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava-M&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -26,13 +26,11 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <!-- Profile Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranava-M&theme=radical" width="90%" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranava-M&theme=radical" width="90%"/>
 </p>
 
 <p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=Pranava-M&theme=radical&hide_border=true&background=000000" height="180" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Pranava-M&theme=radical&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -40,8 +38,7 @@
 ## 🌟 Dynamic GitHub Metrics
 
 <p align="center">
-  <!-- Activity Graph (Stable) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranava-M&theme=radical&hide_border=true&bg_color=0D1117&color=FF6EC7&line=FF3CAC&point=FFB3F5" width="95%" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranava-M&theme=radical&hide_border=true" width="95%"/>
 </p>
 
 ---
@@ -50,24 +47,22 @@
 
 ### 🧑‍💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,html,css,sqlite,mysql&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,html,css,sqlite,mysql&theme=dark"/>
 </p>
 
 ### ⚙️ Frameworks & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,linux,git,redis,aws&theme=dark" alt="Frameworks and Tools"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,linux,git,redis,aws&theme=dark"/>
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:machireddy12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/pranav-machireddy-554163311"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/Pranava-M"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:machireddy12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pranav-machireddy-554163311"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Pranava-M"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
-
-⭐ **Feel free to explore my repositories — let's build greatness together!**
