@@ -9,15 +9,12 @@
 ## 🔥 Profile Overview
 
 <p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Pranava-M&theme=radical&no-frame=true&no-bg=true" />
+  <!-- Replaced Trophy with Official GitHub Profile Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranava-M&theme=radical" width="90%"/>
 </p>
 
 <p align="center">
-  <!-- GitHub Stats — OFFICIAL WORKING -->
   <img src="https://github-readme-stats.vercel.app/api?username=Pranava-M&show_icons=true&theme=radical&hide_border=true" height="150"/>
-
-  <!-- Top Languages — OFFICIAL WORKING -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava-M&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
 
@@ -26,19 +23,12 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranava-M&theme=radical" width="90%"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Pranava-M&theme=radical&hide_border=true" height="180"/>
 </p>
 
----
-
-## 🌟 Dynamic GitHub Metrics
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranava-M&theme=radical&hide_border=true" width="95%"/>
+  <!-- Using GitHub’s Official Contribution Calendar -->
+  <img src="https://ghchart.rshah.org/FF3CAC/Pranava-M" alt="GitHub Contribution Chart" width="90%"/>
 </p>
 
 ---
