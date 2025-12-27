@@ -8,13 +8,13 @@
 
 ## 👋 About Me
 - 🎓 Computer Science Student  
-- 💻 Backend & Full-Stack Developer  
-- 🔐 Security & Systems Enthusiast  
+- 💻 Full-Stack & Backend Developer  
+- 🔐 Security & System Design Enthusiast  
 - 🚀 Open Source Contributor  
 
 ---
 
-## 📊 GitHub Overview 
+## 📊 GitHub Overview (Stable)
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranava-M&theme=radical"/>
@@ -27,7 +27,7 @@
 
 ---
 
-## 🔥 Contribution Streak 
+## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Pranava-M&theme=radical&hide_border=true"/>
@@ -35,10 +35,12 @@
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranava-M&theme=radical&hide_border=true"/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Pranava-M&theme=radical&no-frame=true&no-bg=true&row=1&column=6"
+  />
 </p>
 
 ---
@@ -69,10 +71,4 @@
   <a href="https://github.com/Pranava-M">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  ⭐ Star repositories if you like my work
 </p>
