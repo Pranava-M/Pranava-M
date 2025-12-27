@@ -20,10 +20,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranava-M&theme=radical"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranava-M&theme=radical"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranava-M&theme=radical"/>
-</p>
 
 ---
 
