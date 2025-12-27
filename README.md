@@ -14,7 +14,7 @@
 
 ---
 
-## 📊 GitHub Overview (STABLE)
+## 📊 GitHub Overview 
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranava-M&theme=radical"/>
@@ -27,7 +27,7 @@
 
 ---
 
-## 🔥 Contribution Streak (MOST RELIABLE)
+## 🔥 Contribution Streak 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Pranava-M&theme=radical&hide_border=true"/>
