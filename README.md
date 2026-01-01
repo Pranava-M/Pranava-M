@@ -1,28 +1,25 @@
-<!-- 💼 Pranav Machireddy | GitHub Profile README -->
+<!-- 💼 Pranav Machireddy - GitHub Profile README -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF3CAC&center=true&vCenter=true&width=900&lines=Pranav+Machireddy;Computer+Science+Student;Full+Stack+Developer;Backend+Engineer;Security+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF3CAC&center=true&vCenter=true&width=900&lines=Pranav+Machireddy;Computer+Science+Student;Full+Stack+Developer;Backend+Engineer;Security+Enthusiast" />
 </p>
 
 ---
 
 ## 👋 About Me
-
-🎓 **Computer Science Student**  
-💻 **Full-Stack & Backend Developer**  
-🔐 **Security & System Design Enthusiast**  
-🚀 **Open-Source Contributor**
-
-I enjoy building **scalable systems**, working on **backend architectures**, and learning about **security & performance optimization**.
+- 🎓 Computer Science Student  
+- 💻 Full-Stack & Backend Developer  
+- 🔐 Security & System Design Enthusiast  
+- 🚀 Open Source Contributor  
 
 ---
 
-## 📊 GitHub Stats (Live)
+## 📊 GitHub Overview (Stable)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranava-M&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava-M&layout=compact&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranava-M&theme=radical"/>
 </p>
+
 
 ---
 
@@ -34,11 +31,17 @@ I enjoy building **scalable systems**, working on **backend architectures**, and
 
 ---
 
-## 🏆 GitHub Trophies (Auto-Updated)
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pranava-M&theme=radical&no-frame=true&margin-w=15&row=1&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Pranava-M&theme=radical&no-frame=true&no-bg=true&row=1&column=7&title=all"
+    alt="GitHub Trophies"
+  />
 </p>
+
+
+
 
 ---
 
@@ -52,14 +55,6 @@ I enjoy building **scalable systems**, working on **backend architectures**, and
 ### ⚙️ Tools & Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,git,linux,aws,redis&theme=dark"/>
-</p>
-
----
-
-## 🌍 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranava-M&theme=redical&hide_border=true"/>
 </p>
 
 ---
@@ -78,8 +73,3 @@ I enjoy building **scalable systems**, working on **backend architectures**, and
   </a>
 </p>
 
----
-
-<p align="center">
-  ⚡ <i>“Code. Secure. Scale. Repeat.”</i>
-</p>
