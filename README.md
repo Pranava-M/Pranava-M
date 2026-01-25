@@ -13,17 +13,14 @@
 
 ---
 
-## 📊 GitHub Overview (Stable)
-
+## 📊 GitHub Overview 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranava-M&theme=radical"/>
 </p>
 
-
 ---
 
 ## 🔥 Contribution Streak
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Pranava-M&theme=radical&hide_border=true"/>
 </p>
@@ -35,17 +32,13 @@
 <p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=Pranava-M&theme=radical&no-frame=true&no-bg=true&row=1&column=7&title=all"
-    alt="GitHub Trophies"
+    alt="GitHub Trophies."
   />
 </p>
-
-
-
 
 ---
 
 ## 🛠️ Tech Stack
-
 ### 💻 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,html,css,mysql,sqlite&theme=dark"/>
