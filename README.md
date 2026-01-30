@@ -4,7 +4,6 @@
 </p>
 ---
 
-
 ## 👋 About Me
 - 🎓 Computer Science Student  
 - 💻 Full-Stack & Backend Developer  
