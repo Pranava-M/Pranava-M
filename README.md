@@ -60,4 +60,4 @@
   <a href="https://github.com/Pranava-M">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>give me this but try to imporove many more features okay not like showing the image like adding something okay like a pro hacker and a pro developer it should look like
+</p>
