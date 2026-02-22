@@ -1,5 +1,4 @@
 <!-- 💼 Pranav Machireddy - GitHub Profile README --> 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF3CAC&center=true&vCenter=true&width=900&lines=Pranav+Machireddy;Computer+Science+Student;Full+Stack+Developer;Backend+Engineer;Security+Enthusiast" />
 </p>
