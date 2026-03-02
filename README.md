@@ -14,6 +14,19 @@
 
 ---
 
+## 🏆 My Technical Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Agentic%20Systems-blueviolet?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-Architecture-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Distributed%20Systems-ff6b6b?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/System-Architecture-00bcd4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-Engineering-ff9800?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-Critical%20Systems-4caf50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DevOps-Cloud%20Scaling-9c27b0?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -65,4 +78,7 @@
   <a href="https://github.com/Pranava-M">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pranava-M&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 </p>
