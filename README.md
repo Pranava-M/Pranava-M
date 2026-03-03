@@ -12,7 +12,6 @@
 - 🔐 Security & System Design Enthusiast  
 - 🚀 Open Source Contributor  
 
-
 ---
 ## 📊 GitHub Stats
 
