@@ -49,7 +49,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,git,linux,ubuntu,aws,redis&theme=dark" />
 </p>
-
 ---
 
 ## 🤝 Connect With Me
