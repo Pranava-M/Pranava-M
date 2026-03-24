@@ -1,4 +1,4 @@
-<!-- 💼 Pranav Machireddy - GitHub Profile README --> 
+<!-- 💼 Pranav Machireddy - GitHub Profile README -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF3CAC&center=true&vCenter=true&width=900&lines=Pranav+Machireddy;Computer+Science+Student;Full+Stack+Developer;Backend+Engineer;Security+Enthusiast" />
@@ -7,13 +7,14 @@
 ---
 
 ## 👋 About Me
+
 - 🎓 Computer Science Student  
 - 💻 Full-Stack & Backend Developer  
 - 🔐 Security & System Design Enthusiast  
 - 🚀 Open Source Contributor  
 
-
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -42,14 +43,17 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,haskell,html,css,mysql,sqlite&theme=dark" />
 </p>
 
 ### ⚙️ Tools, Frameworks & OS
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,git,linux,ubuntu,aws,redis&theme=dark" />
 </p>
+
 ---
 
 ## 🤝 Connect With Me
@@ -65,6 +69,7 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pranava-M&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 </p>
