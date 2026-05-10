@@ -37,6 +37,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Pranava-M&theme=radical&no-frame=true&row=1&column=6" />
 </p>
+
 ---
 
 ## 🛠️ Tech Stack
