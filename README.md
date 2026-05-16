@@ -76,3 +76,12 @@
 </p>
 
 ---
+
+---
+
+## 🚀 Currently Working On
+
+- 🔭 Building Full Stack Applications
+- 🌱 Learning System Design & Cloud
+- 🧠 Practicing DSA & Problem Solving
+- ⚡ Exploring Cyber Security
