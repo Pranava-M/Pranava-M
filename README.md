@@ -10,7 +10,7 @@
 ## 👋 About Me
 
 - 🎓 Computer Science Student  
-- 💻 Full-Stack & Backend Developer  
+- 💻 Full-Stack & Backend Developer
 - 🔐 Security & System Design Enthusiast  
 - 🚀 Open Source Contributor  
 
