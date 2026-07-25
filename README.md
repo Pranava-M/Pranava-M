@@ -1,92 +1,59 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=root%40pranav%3A~%24+whoami;Pranav+Machireddy;Full+Stack+%7C+Backend+Engineer;Security+%26+System+Design+Enthusiast;Building...+Breaking...+Learning..." alt="Typing SVG" />
-
-```
-┌──(pranav㉿github)-[~]
-└─$ cat about.txt
-```
-
-</div>
-
----
-
-## `0x00` // WHOAMI
-
-```yaml
-role:        Computer Science Student
-focus:       Full-Stack & Backend Development
-interests:   Security, System Design, Distributed Systems
-status:      Open Source Contributor
-current_os:  Linux (btw)
-```
-
----
-
-## `0x01` // STATS.exe
+<h1 align="center">Hi, I'm Pranav Machireddy 👋</h1>
+<h3 align="center">Full-Stack & Backend Developer | Security & System Design Enthusiast</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pranava-M&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava-M&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems;Exploring+security+%26+system+design;Always+learning%2C+always+shipping" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranava-M&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pranava-M&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" />
+  <a href="mailto:machireddy12@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pranav-machireddy-554163311"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Pranava-M"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## `0x02` // TECH_STACK.json
+### 🧭 About Me
 
-**Languages**
+- 🎓 Computer Science student, passionate about backend engineering and system design
+- 🛠️ I build full-stack applications with a focus on clean architecture and scalability
+- 🔐 Deeply interested in security, and how systems can be designed to fail safely
+- 🌱 Currently deepening my knowledge of distributed systems and cloud infrastructure
+- 💬 Always open to collaborating on interesting open-source projects
+
+---
+
+### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,haskell,html,css,mysql,sqlite&theme=dark" />
+  <b>Languages</b><br/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,haskell,html,css,mysql,sqlite" />
 </p>
-
-**Tools · Frameworks · Infra**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,git,linux,ubuntu,aws,redis&theme=dark" />
+  <b>Tools & Frameworks</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,git,linux,ubuntu,aws,redis" />
 </p>
 
 ---
 
-## `0x03` // ACTIVITY_LOG.log
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranava-M&theme=react-dark&hide_border=true&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pranava-M&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava-M&layout=compact&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranava-M&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pranava-M&theme=flat&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## `0x04` // CONNECT.sh
-
 <p align="center">
-  <a href="mailto:machireddy12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" />
-  </a>
-  <a href="https://www.linkedin.com/in/pranav-machireddy-554163311">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
-  </a>
-  <a href="https://github.com/Pranava-M">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Pranava-M&label=Profile%20Views&color=2F81F7&style=flat" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranava-M&label=PROFILE+VIEWS&color=000000&style=for-the-badge" />
-</p>
-
-<div align="center">
-
-```
-> connection closed by remote host.
-> session terminated.
-```
-
-</div>
