@@ -41,18 +41,13 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,c,haskell,html,css,mysql,sqlite&theme=dark" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual%20Basic%206-0000FF?style=for-the-badge&logo=visualstudio&logoColor=white" />
-</p>
+
 
 ### ⚙️ Tools & Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,git,flutter,tensorflow,pytorch,linux,ubuntu,aws,redis&theme=dark" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
+
 
 ---
 
