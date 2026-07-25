@@ -5,28 +5,39 @@
 </p>
 
 ---
+
 ## 👋 About Me
 - 🎓 Computer Science Student  
 - 💻 Full-Stack & Backend Developer
 - 🔐 Security & System Design Enthusiast  
-- 🚀 Open Source Contributor  
+- 🚀 Open Source Contributor
+- 
 ---
 ## 📊 GitHub Stats
+
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranava-M&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava-M&layout=compact&theme=radical&hide_border=true" />
 </p>
+
 ---
+
 ## 🔥 Contribution Streak
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranava-M&theme=radical&hide_border=true" />
 </p>
+
 ---
+
 ## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Pranava-M&theme=radical&no-frame=true&row=1&column=6" />
 </p>
+
 ---
+
 ## 🛠️ Tech Stack
 ### 💻 Programming Languages
 <p align="center">
@@ -36,7 +47,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,git,linux,ubuntu,aws,redis&theme=dark" />
 </p>
+
 ---
+
 ## 🤝 Connect With Me
 <p align="center">
   <a href="mailto:machireddy12@gmail.com">
@@ -52,4 +65,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pranava-M&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 </p>
+
 ---
