@@ -39,10 +39,12 @@
 ---
 
 ## 🛠️ Tech Stack
+
 ### 💻 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,haskell,html,css,mysql,sqlite&theme=dark" />
 </p>
+
 ### ⚙️ Tools, Frameworks & OS
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,git,linux,ubuntu,aws,redis&theme=dark" />
