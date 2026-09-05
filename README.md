@@ -36,23 +36,6 @@ reach_me:  machireddy12@gmail.com
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Pranava-M/DSA-Hand-Gesture-Game-Hub">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pranava-M&repo=DSA-Hand-Gesture-Game-Hub&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/Pranava-M/Magic-Karpet">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pranava-M&repo=Magic-Karpet&theme=radical&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Pranava-M/MovieBooking">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pranava-M&repo=MovieBooking&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/Pranava-M/Hand-Gesture-Volume-Control">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pranava-M&repo=Hand-Gesture-Volume-Control&theme=radical&hide_border=true" />
-  </a>
-</p>
 
 <!-- ⬇️ UNCOMMENT THIS ONCE YOU PUSH THE VeriCred REPO ⬇️
 <p align="center">
