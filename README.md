@@ -127,11 +127,7 @@ System volume controlled by hand gestures through the webcam — open hand, fist
   <img src="https://streak-stats.demolab.com/?user=Pranava-M&theme=radical&hide_border=true" />
 </p>
 
-## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranava-M&theme=redical&hide_border=true&area=true" />
-</p>
 
 ## 🏆 GitHub Trophies
 
