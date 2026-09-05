@@ -150,12 +150,6 @@ System volume controlled by hand gestures through the webcam — open hand, fist
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranava-M&theme=redical&hide_border=true&area=true" />
 </p>
 
-## 🐍 Watch My Contributions Get Eaten
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pranava-M/Pranava-M/output/snake.svg" alt="Snake animation" />
-</p>
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
