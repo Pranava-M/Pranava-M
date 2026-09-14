@@ -8,6 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF3CAC&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Full+Stack+Developer;Backend+Engineer;Security+Enthusiast" />
 </p>
 
+
 <p align="center">
   <a href="https://github.com/Pranava-M?tab=followers"><img src="https://img.shields.io/github/followers/Pranava-M?style=for-the-badge&color=FF3CAC&labelColor=0d1117&logo=github" /></a>
   <a href="https://github.com/Pranava-M?tab=stars"><img src="https://img.shields.io/github/stars/Pranava-M?style=for-the-badge&color=784BA0&labelColor=0d1117&logo=github" /></a>
