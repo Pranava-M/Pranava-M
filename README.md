@@ -8,6 +8,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF3CAC&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Full+Stack+Developer;Backend+Engineer;Security+Enthusiast" />
 </p>
 
+<p align="center">
+  <a href="https://professionalport1.netlify.app/">
+    <img src="https://img.shields.io/badge/View_my_portfolio-professionalport1.netlify.app-FF3CAC?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Pranava-M?tab=followers"><img src="https://img.shields.io/github/followers/Pranava-M?style=for-the-badge&color=FF3CAC&labelColor=0d1117&logo=github" /></a>
@@ -25,6 +30,7 @@ role:      Computer Science Student @ Amrita Vishwa Vidyapeetham
 focus:     [ Full-Stack Development, Backend Engineering, Security ]
 building:  Computer vision systems & blockchain-verified applications
 languages: [ Python, C, Java, JavaScript, SQL, Haskell ]
+portfolio: https://professionalport1.netlify.app
 reach_me:  machireddy12@gmail.com
 ```
 
@@ -37,6 +43,10 @@ reach_me:  machireddy12@gmail.com
 
 ## 🚀 Featured Projects
 
+<p align="center">
+  <i>Screenshots, case studies and the full searchable archive are on
+  <a href="https://professionalport1.netlify.app/">my portfolio</a>.</i>
+</p>
 
 <!-- ⬇️ UNCOMMENT THIS ONCE YOU PUSH THE VeriCred REPO ⬇️
 <p align="center">
@@ -128,8 +138,6 @@ System volume controlled by hand gestures through the webcam — open hand, fist
   <img src="https://streak-stats.demolab.com/?user=Pranava-M&theme=radical&hide_border=true" />
 </p>
 
-
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -140,9 +148,10 @@ System volume controlled by hand gestures through the webcam — open hand, fist
 
 ## 🤝 Connect With Me
 
-
 <p align="center">
- 
+  <a href="https://professionalport1.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF3CAC?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="mailto:machireddy12@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
