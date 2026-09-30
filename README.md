@@ -4,6 +4,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Pranav%20Machireddy&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Full-Stack%20%7C%20Backend%20%7C%20Security&descAlignY=52&descSize=18" />
 </p>
 
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF3CAC&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Full+Stack+Developer;Backend+Engineer;Security+Enthusiast" />
 </p>
